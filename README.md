@@ -1,5 +1,3 @@
-### Hi there, I am Alston Soares 👋
-
 # Hi there, I am **Alston Soares** 👋
 
 # 💫 About Me:
