@@ -33,25 +33,41 @@
 [![An image of @alstudd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alstudd)](https://holopin.io/@alstudd)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Alstudd&theme=tokyonight&hide_border=true&count_private=true&border_radius=10)
+![](https://github-readme-stats.vercel.app/api?username=Alstudd&theme=github_dark&hide_border=false&count_private=true&border_radius=10&show=prs_merged,prs_merged_percentage&hide=issues&show_icons=true)
 
-![](https://github-readme-streak-stats-salesp07.vercel.app/?user=Alstudd&theme=tokyonight&hide_border=true&count_private=true&border_radius=10)
+![](https://github-readme-streak-stats-salesp07.vercel.app/?user=Alstudd&theme=github_dark&hide_border=false&count_private=true&border_radius=10)
 <!--
-![](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Alstudd&theme=tokyonight&hide_border=true&count_private=true&border_radius=10&layout=compact&langs_count=8)
+![](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Alstudd&theme=github_dark&hide_border=false&count_private=true&border_radius=10&layout=compact&langs_count=8)
 -->
 
-![](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Alstudd&theme=tokyonight&hide_border=true&count_private=true&border_radius=10&layout=compact&langs_count=4&hide=HTML)
+![](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Alstudd&theme=github_dark&hide_border=false&count_private=true&border_radius=10&layout=compact&langs_count=4&hide=HTML)
 
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Alstudd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Alstudd&theme=discord&no-frame=false&margin-w=16&row=3&column=3&margin-h=16&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 # 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Alstudd&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Alstudd&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=false&border_radius=10)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Alstudd&bg_color=333333&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+<!--
+# 📌 My Top Github Repos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alstudd&repo=SE-COMP-C-Website&theme=github_dark&hide_border=false&border_radius=10&show_icons=true&icon_color=ffffff&text_color=ffffff)](https://github.com/Alstudd/SE-COMP-C-Website)
+-->
+<!--
+# 🌟 Open Source Contributions
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tcet-opensource&repo=hacktober-fest&theme=github_dark&hide_border=false&border_radius=10&show_icons=true&icon_color=ffffff&text_color=ffffff)](https://github.com/tcet-opensource/hacktober-fest)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tcet-opensource&repo=tcet-website&theme=github_dark&hide_border=false&border_radius=10&show_icons=true&icon_color=ffffff&text_color=ffffff)](https://github.com/tcet-opensource/tcet-website)
+-->
+# ✨ Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Alstudd&bg_color=333333&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false)
 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Alstudd/Alstudd/output/github-contribution-grid-snake.svg" />
 
 ![](https://komarev.com/ghpvc/?username=Alstudd&color=blue)
+
+
 
 </div>
