@@ -12,7 +12,7 @@
 
 👨‍💻 Working on Open Source Projects
 
-🚀 L5 Frontend Developer @ [TCET Open Source](https://github.com/tcet-opensource)
+🚀 L5 Frontend Developer & Maintainer @ [TCET Open Source](https://github.com/tcet-opensource)
 
 🌱 I’m currently learning Next.js, Astro.js, Strapi and TypeScript
 
@@ -46,20 +46,55 @@
 ![](https://github-profile-trophy.vercel.app/?username=Alstudd&theme=discord&no-frame=false&margin-w=16&row=3&column=3&margin-h=16&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 # 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Alstudd&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=false&border_radius=10)
+![](https://github-contributor-stats.vercel.app/api?username=Alstudd&limit=8&theme=github_dark&combine_all_yearly_contributions=true&hide_border=false&border_radius=10)
 
 <!--
 # 📌 My Top Github Repos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alstudd&repo=SE-COMP-C-Website&theme=github_dark&hide_border=false&border_radius=10&show_icons=true&icon_color=ffffff&text_color=ffffff)](https://github.com/Alstudd/SE-COMP-C-Website)
 -->
-<!--
-# 🌟 Open Source Contributions
 
+# 🌟 Open Source Contributions
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tcet-opensource&repo=hacktober-fest&theme=github_dark&hide_border=false&border_radius=10&show_icons=true&icon_color=ffffff&text_color=ffffff)](https://github.com/tcet-opensource/hacktober-fest)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tcet-opensource&repo=tcet-website&theme=github_dark&hide_border=false&border_radius=10&show_icons=true&icon_color=ffffff&text_color=ffffff)](https://github.com/tcet-opensource/tcet-website)
 -->
+
+<a href="https://github.com/tcet-opensource/tcet-website">
+  <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tcet-opensource&repo=tcet-website&theme=github_dark&hide_border=false&border_radius=10&show_icons=true&icon_color=ffffff&text_color=ffffff" />
+</a>
+<a href="https://github.com/Alstudd/next-blog">
+  <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahilsiddique&repo=next-blog&theme=github_dark&hide_border=false&border_radius=10&show_icons=true&icon_color=ffffff&text_color=ffffff" />
+</a>
+
+<br/>
+<br/>
+
+<a href="https://github.com/Alstudd/Skyscraper">
+  <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=corners2wall&repo=Skyscraper&theme=github_dark&hide_border=false&border_radius=10&show_icons=true&icon_color=ffffff&text_color=ffffff" />
+</a>
+<a href="https://github.com/tcet-opensource/practice-react">
+  <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tcet-opensource&repo=practice-react&theme=github_dark&hide_border=false&border_radius=10&show_icons=true&icon_color=ffffff&text_color=ffffff" />
+</a>
+
+<br/>
+<br/>
+
+<a href="https://github.com/Alstudd/shastra-temp">
+  <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shlok-2003&repo=shastra-temp&theme=github_dark&hide_border=false&border_radius=10&show_icons=true&icon_color=ffffff&text_color=ffffff" />
+</a>
+<a href="https://github.com/Joyvin/Medinova">
+  <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joyvin&repo=Medinova&theme=github_dark&hide_border=false&border_radius=10&show_icons=true&icon_color=ffffff&text_color=ffffff" />
+</a>
+
+<br/>
+<br/>
+
+<a href="https://github.com/Alstudd/hacktober-fest">
+  <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tcet-opensource&repo=hacktober-fest&theme=github_dark&hide_border=false&border_radius=10&show_icons=true&icon_color=ffffff&text_color=ffffff" />
+</a>
+
 # ✨ Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Alstudd&bg_color=333333&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false)
@@ -67,7 +102,5 @@
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Alstudd/Alstudd/output/github-contribution-grid-snake.svg" />
 
 ![](https://komarev.com/ghpvc/?username=Alstudd&color=blue)
-
-
 
 </div>
