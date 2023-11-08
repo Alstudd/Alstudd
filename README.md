@@ -14,6 +14,9 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) -->
 
+# 😎 HacktoberFest:
+[![An image of @alstudd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alstudd)](https://holopin.io/@alstudd)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Alstudd&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Alstudd&theme=tokyonight&hide_border=true)<br/>
