@@ -4,7 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&weight=700&color=00F768&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alston+Soares!;+Web+Developer;+AI/ML+Enthusiast;+Blockchain+Learner;" />
 </h1>
 
-### 💫 A growing software developer from India 🇮🇳:
+<h3>
+    A Passionate Developer From India 🇮🇳
+</h3>
 
 <br/>
 
