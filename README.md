@@ -62,37 +62,37 @@
 -->
 
 <a href="https://github.com/tcet-opensource/tcet-website">
-  <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tcet-opensource&repo=tcet-website&theme=github_dark&hide_border=false&border_radius=10&show_icons=true&icon_color=ffffff&text_color=ffffff" />
+  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tcet-opensource&repo=tcet-website&theme=github_dark&hide_border=false&border_radius=10&show_icons=true&icon_color=ffffff&text_color=ffffff" />
 </a>
 <a href="https://github.com/Alstudd/next-blog">
-  <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahilsiddique&repo=next-blog&theme=github_dark&hide_border=false&border_radius=10&show_icons=true&icon_color=ffffff&text_color=ffffff" />
+  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahilsiddique&repo=next-blog&theme=github_dark&hide_border=false&border_radius=10&show_icons=true&icon_color=ffffff&text_color=ffffff" />
 </a>
 
 <br/>
 <br/>
 
 <a href="https://github.com/Alstudd/Skyscraper">
-  <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=corners2wall&repo=Skyscraper&theme=github_dark&hide_border=false&border_radius=10&show_icons=true&icon_color=ffffff&text_color=ffffff" />
+  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=corners2wall&repo=Skyscraper&theme=github_dark&hide_border=false&border_radius=10&show_icons=true&icon_color=ffffff&text_color=ffffff" />
 </a>
 <a href="https://github.com/tcet-opensource/practice-react">
-  <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tcet-opensource&repo=practice-react&theme=github_dark&hide_border=false&border_radius=10&show_icons=true&icon_color=ffffff&text_color=ffffff" />
+  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tcet-opensource&repo=practice-react&theme=github_dark&hide_border=false&border_radius=10&show_icons=true&icon_color=ffffff&text_color=ffffff" />
 </a>
 
 <br/>
 <br/>
 
 <a href="https://github.com/Alstudd/shastra-temp">
-  <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shlok-2003&repo=shastra-temp&theme=github_dark&hide_border=false&border_radius=10&show_icons=true&icon_color=ffffff&text_color=ffffff" />
+  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shlok-2003&repo=shastra-temp&theme=github_dark&hide_border=false&border_radius=10&show_icons=true&icon_color=ffffff&text_color=ffffff" />
 </a>
 <a href="https://github.com/Joyvin/Medinova">
-  <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joyvin&repo=Medinova&theme=github_dark&hide_border=false&border_radius=10&show_icons=true&icon_color=ffffff&text_color=ffffff" />
+  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joyvin&repo=Medinova&theme=github_dark&hide_border=false&border_radius=10&show_icons=true&icon_color=ffffff&text_color=ffffff" />
 </a>
 
 <br/>
 <br/>
 
 <a href="https://github.com/Alstudd/hacktober-fest">
-  <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tcet-opensource&repo=hacktober-fest&theme=github_dark&hide_border=false&border_radius=10&show_icons=true&icon_color=ffffff&text_color=ffffff" />
+  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tcet-opensource&repo=hacktober-fest&theme=github_dark&hide_border=false&border_radius=10&show_icons=true&icon_color=ffffff&text_color=ffffff" />
 </a>
 
 # ✨ Contribution Graph
