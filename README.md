@@ -30,8 +30,6 @@
 # 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Alstudd&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-![snake gif](https://github.com/Alstudd/Alstudd/blob/output/github-contribution-grid-snake.gif)
-
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Alstudd&bg_color=333333&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 ![](https://komarev.com/ghpvc/?username=Alstudd&color=blue)
