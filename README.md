@@ -47,6 +47,8 @@
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Alstudd&bg_color=333333&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Alstudd/Alstudd/output/github-contribution-grid-snake.svg" />
+
 ![](https://komarev.com/ghpvc/?username=Alstudd&color=blue)
 
 </div>
