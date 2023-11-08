@@ -33,11 +33,14 @@
 [![An image of @alstudd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alstudd)](https://holopin.io/@alstudd)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Alstudd&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=Alstudd&theme=tokyonight&hide_border=true&count_private=true&border_radius=10)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Alstudd&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats-salesp07.vercel.app/?user=Alstudd&theme=tokyonight&hide_border=true&count_private=true&border_radius=10)
+<!--
+![](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Alstudd&theme=tokyonight&hide_border=true&count_private=true&border_radius=10&layout=compact&langs_count=8)
+-->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alstudd&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Alstudd&theme=tokyonight&hide_border=true&count_private=true&border_radius=10&layout=compact&langs_count=4&hide=HTML)
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Alstudd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
