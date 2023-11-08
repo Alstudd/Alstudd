@@ -1,10 +1,10 @@
 # Hi there, I am **Alston Soares** 👋
 
 # 💫 About Me:
-👨‍💻 I’m currently working on Open Source Projects<br>🌱 I’m currently learning Astro.js, Strapi and TypeScript<br>💪🏼 Future Goals: To always keep learning, growing and building innovative projects
+🚀 L5 Frontend Developer @ [TCET Open Source](https://github.com/tcet-opensource)<br>👨‍💻 Working on Open Source Projects<br>🌱 I’m currently learning Next.js, Astro.js, Strapi and TypeScript<br>💪🏼 Future Goals: To always keep learning, growing and building innovative projects
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alston-soares-724a641b9/) 
 
 # 💻 Tech Stack:
@@ -18,14 +18,18 @@
 [![An image of @alstudd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alstudd)](https://holopin.io/@alstudd)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Alstudd&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Alstudd&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Alstudd&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Alstudd&theme=tokyonight&hide_border=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alstudd&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Alstudd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Alstudd&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Alstudd&bg_color=333333&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 ![](https://komarev.com/ghpvc/?username=Alstudd&color=blue)
