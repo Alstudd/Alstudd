@@ -1,7 +1,20 @@
-# Hi there, I am **Alston Soares** 👋
+<div align="center">
 
-# 💫 About Me:
-🚀 L5 Frontend Developer @ [TCET Open Source](https://github.com/tcet-opensource)<br>👨‍💻 Working on Open Source Projects<br>🌱 I’m currently learning Next.js, Astro.js, Strapi and TypeScript<br>💪🏼 Future Goals: To always keep learning, growing and building innovative projects
+<h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&weight=700&color=00F768&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alston+Soares!;+Web+Developer;+AI/ML+Enthusiast;+Blockchain+Learner;" />
+</h1>
+
+### 💫 A growing software developer from India 🇮🇳:
+
+<br/>
+
+👨‍💻 Working on Open Source Projects
+
+🚀 L5 Frontend Developer @ [TCET Open Source](https://github.com/tcet-opensource)
+
+🌱 I’m currently learning Next.js, Astro.js, Strapi and TypeScript
+
+💪🏼 Future Goals: To always keep learning, growing and building innovative projects
 
 
 # 🌐 Socials:
@@ -33,3 +46,5 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Alstudd&bg_color=333333&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 ![](https://komarev.com/ghpvc/?username=Alstudd&color=blue)
+
+</div>
