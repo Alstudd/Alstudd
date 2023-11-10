@@ -33,15 +33,17 @@
 [![An image of @alstudd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alstudd)](https://holopin.io/@alstudd)
 
 # 📊 GitHub Stats:
-![Alstudd's GitHub | Stats](https://stats.quine.sh/Alstudd/github?theme=dark)
-
-![Alstudd's GitHub | Dependencies](https://stats.quine.sh/Alstudd/dependencies?theme=dark)
 
 ![](https://github-readme-stats.vercel.app/api?username=Alstudd&theme=github_dark&hide_border=false&count_private=true&border_radius=10&show=prs_merged,prs_merged_percentage&hide=issues&show_icons=true)
 
 ![](https://github-readme-streak-stats-salesp07.vercel.app/?user=Alstudd&theme=github_dark&hide_border=false&count_private=true&border_radius=10)
 <!--
 ![](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Alstudd&theme=github_dark&hide_border=false&count_private=true&border_radius=10&layout=compact&langs_count=8)
+-->
+<!--
+![Alstudd's GitHub | Stats](https://stats.quine.sh/Alstudd/github?theme=dark)
+
+![Alstudd's GitHub | Dependencies](https://stats.quine.sh/Alstudd/dependencies?theme=dark)
 -->
 
 ![](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Alstudd&theme=github_dark&hide_border=false&count_private=true&border_radius=10&layout=compact&langs_count=4&hide=HTML)
