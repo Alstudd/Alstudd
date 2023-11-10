@@ -20,8 +20,6 @@
 
 🌱 I’m currently learning Next.js, Astro.js, Strapi and TypeScript
 
-💪🏼 Future Goals: To always keep learning, growing and building innovative projects
-
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alston-soares-724a641b9/) 
 
