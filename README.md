@@ -14,6 +14,10 @@
 
 🏆 HackX-SFIT'23 Winner (Blockchain Domain)
 
+🥇 Crescendo'24 Winner
+
+🏅 Hackanova 3.0 2nd Runner Up
+
 📌 GFG-Solving For India Institutional Round Winner
 
 🚀 L5 Frontend Dev & Maintainer @ [TCET Open Source](https://github.com/tcet-opensource)
