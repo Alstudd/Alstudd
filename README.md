@@ -12,11 +12,11 @@
 
 👨‍💻 Working on Open Source Projects
 
-🏆 HackX-SFIT'23 Winner (Blockchain Domain)
-
 🥇 Crescendo'24 Winner
 
 🏅 Hackanova 3.0 2nd Runner Up
+
+🏆 HackX-SFIT'23 Winner (Blockchain Domain)
 
 📌 GFG-Solving For India Institutional Round Winner
 
