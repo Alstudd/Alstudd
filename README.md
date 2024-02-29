@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&weight=700&color=00F768&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alston+Soares!;+Web+Developer;+AI/ML+Enthusiast;+Blockchain+Learner;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&weight=700&color=00F768&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alston+Soares!;+Web+Developer;+Open+Source+Contributor;+AI/ML+Enthusiast;+Blockchain+Learner;" />
 </h1>
 
 <h3>
@@ -9,8 +9,6 @@
 </h3>
 
 <br/>
-
-👨‍💻 Working on Open Source Projects
 
 🥇 Crescendo'24 Winner
 
