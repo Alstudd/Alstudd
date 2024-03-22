@@ -35,19 +35,17 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Alstudd&theme=github_dark&hide_border=false&count_private=true&border_radius=10&show=prs_merged,prs_merged_percentage&hide=issues&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=Alstudd&theme=github_dark&hide_border=false&count_private=true&border_radius=10&show=prs_merged_percentage&hide=issues,prs&show_icons=true)
 
 ![](https://github-readme-streak-stats-salesp07.vercel.app/?user=Alstudd&theme=github_dark&hide_border=false&count_private=true&border_radius=10)
-<!--
-![](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Alstudd&theme=github_dark&hide_border=false&count_private=true&border_radius=10&layout=compact&langs_count=8)
--->
-<!--
+
+<!--=
 ![Alstudd's GitHub | Stats](https://stats.quine.sh/Alstudd/github?theme=dark)
 
 ![Alstudd's GitHub | Dependencies](https://stats.quine.sh/Alstudd/dependencies?theme=dark)
 -->
 
-![](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Alstudd&theme=github_dark&hide_border=false&count_private=true&border_radius=10&layout=compact&langs_count=4&hide=HTML)
+![](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Alstudd&theme=github_dark&hide_border=false&border_radius=10&layout=compact&langs_count=8&hide=HTML)
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Alstudd&theme=discord&no-frame=false&margin-w=16&row=3&column=3&margin-h=16&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
