@@ -10,23 +10,23 @@
 
 <br/>
 
-🥇 Crescendo'24 Winner
+🥇 **KJ GajShield Winner**
 
-🥇 KJ GajShield Winner
+🥇 **Crescendo'24 Winner**
 
-🏅 Hackanova 4.0 PS Winner
+🏅 **Hackanova 4.0 PS Winner**
 
-🏅 Hackanova 3.0 2nd Runner Up
+🏅 **Hackanova 3.0 2nd Runner Up**
 
-🏅 Hackanova 2.0 Precursor Winner
+🏅 **Hackanova 2.0 Precursor Winner**
 
-🏆 HackX-SFIT'23 Winner (Blockchain Domain)
+🏆 **HackX-SFIT'23 Winner (Blockchain Domain)**
 
-📌 GFG-Solving For India Institutional Round Winner
+📌 **GFG-Solving For India Institutional Round Winner**
 
-🚀 L5 Frontend Dev & Maintainer @ [TCET Open Source](https://github.com/tcet-opensource)
+🚀 **L5 Frontend Dev & Maintainer @ [TCET Open Source](https://github.com/tcet-opensource)**
 
-🌱 I’m currently building products on the Solana and Base chain
+🌱 **I’m currently building products on the Solana and Base chain**
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alston-soares-724a641b9)
