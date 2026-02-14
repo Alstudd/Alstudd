@@ -26,7 +26,7 @@
 
 🚀 **L5 Frontend Dev & Maintainer @ [TCET Open Source](https://github.com/tcet-opensource)**
 
-🌱 **I’m currently building products on the Solana and Base chain**
+🌱 **I'm currently building products on the Solana and Base chain**
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alston-soares-724a641b9)
@@ -63,7 +63,7 @@
 
 ![](https://github-readme-streak-stats-salesp07.vercel.app/?user=Alstudd&theme=github_dark&hide_border=false&count_private=true&border_radius=10)
 
-<!--=
+<!--
 ![Alstudd's GitHub | Stats](https://stats.quine.sh/Alstudd/github?theme=dark)
 
 ![Alstudd's GitHub | Dependencies](https://stats.quine.sh/Alstudd/dependencies?theme=dark)
@@ -72,7 +72,7 @@
 ![](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Alstudd&theme=github_dark&hide_border=false&border_radius=10&layout=compact&langs_count=10&hide=HTML)
 
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Alstudd&theme=discord&no-frame=false&margin-w=16&row=3&column=3&margin-h=16&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
+![](https://github-trophies.vercel.app/?username=Alstudd&theme=discord&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)
 
 # 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Alstudd&limit=8&theme=github_dark&combine_all_yearly_contributions=true&hide_border=false&border_radius=10)
@@ -84,49 +84,21 @@
 -->
 
 # 🌟 Open Source Contributions
-<!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tcet-opensource&repo=hacktober-fest&theme=github_dark&hide_border=false&border_radius=10&show_icons=true&icon_color=ffffff&text_color=ffffff)](https://github.com/tcet-opensource/hacktober-fest)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tcet-opensource&repo=tcet-website&theme=github_dark&hide_border=false&border_radius=10&show_icons=true&icon_color=ffffff&text_color=ffffff)](https://github.com/tcet-opensource/tcet-website)
--->
+[![tcet-website](https://gh-card.dev/repos/tcet-opensource/tcet-website.svg)](https://github.com/tcet-opensource/tcet-website)
+[![next-blog](https://gh-card.dev/repos/Rahilsiddique/next-blog.svg)](https://github.com/Rahilsiddique/next-blog)
 
-<a href="https://github.com/tcet-opensource/tcet-website">
-  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tcet-opensource&repo=tcet-website&theme=github_dark&hide_border=false&border_radius=10&show_icons=true&icon_color=ffffff&text_color=ffffff" />
-</a>
-<a href="https://github.com/Alstudd/next-blog">
-  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahilsiddique&repo=next-blog&theme=github_dark&hide_border=false&border_radius=10&show_icons=true&icon_color=ffffff&text_color=ffffff" />
-</a>
+[![Skyscraper](https://gh-card.dev/repos/corners2wall/Skyscraper.svg)](https://github.com/corners2wall/Skyscraper)
+[![practice-react](https://gh-card.dev/repos/tcet-opensource/practice-react.svg)](https://github.com/tcet-opensource/practice-react)
 
-<br/>
-<br/>
+[![shastra-temp](https://gh-card.dev/repos/shlok-2003/shastra-temp.svg)](https://github.com/shlok-2003/shastra-temp)
+[![Medinova](https://gh-card.dev/repos/Joyvin/Medinova.svg)](https://github.com/Joyvin/Medinova)
 
-<a href="https://github.com/Alstudd/Skyscraper">
-  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=corners2wall&repo=Skyscraper&theme=github_dark&hide_border=false&border_radius=10&show_icons=true&icon_color=ffffff&text_color=ffffff" />
-</a>
-<a href="https://github.com/tcet-opensource/practice-react">
-  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tcet-opensource&repo=practice-react&theme=github_dark&hide_border=false&border_radius=10&show_icons=true&icon_color=ffffff&text_color=ffffff" />
-</a>
-
-<br/>
-<br/>
-
-<a href="https://github.com/Alstudd/shastra-temp">
-  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shlok-2003&repo=shastra-temp&theme=github_dark&hide_border=false&border_radius=10&show_icons=true&icon_color=ffffff&text_color=ffffff" />
-</a>
-<a href="https://github.com/Joyvin/Medinova">
-  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joyvin&repo=Medinova&theme=github_dark&hide_border=false&border_radius=10&show_icons=true&icon_color=ffffff&text_color=ffffff" />
-</a>
-
-<br/>
-<br/>
-
-<a href="https://github.com/Alstudd/hacktober-fest">
-  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tcet-opensource&repo=hacktober-fest&theme=github_dark&hide_border=false&border_radius=10&show_icons=true&icon_color=ffffff&text_color=ffffff" />
-</a>
+[![hacktober-fest](https://gh-card.dev/repos/tcet-opensource/hacktober-fest.svg)](https://github.com/tcet-opensource/hacktober-fest)
 
 # ✨ Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Alstudd&bg_color=333333&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Alstudd&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Alstudd/Alstudd/output/github-contribution-grid-snake.svg" />
 
