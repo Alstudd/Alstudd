@@ -86,12 +86,15 @@
 # 🌟 Open Source Contributions
 
 [![tcet-website](https://gh-card.dev/repos/tcet-opensource/tcet-website.svg)](https://github.com/tcet-opensource/tcet-website)
+
 [![next-blog](https://gh-card.dev/repos/Rahilsiddique/next-blog.svg)](https://github.com/Rahilsiddique/next-blog)
 
 [![Skyscraper](https://gh-card.dev/repos/corners2wall/Skyscraper.svg)](https://github.com/corners2wall/Skyscraper)
+
 [![practice-react](https://gh-card.dev/repos/tcet-opensource/practice-react.svg)](https://github.com/tcet-opensource/practice-react)
 
 [![shastra-temp](https://gh-card.dev/repos/shlok-2003/shastra-temp.svg)](https://github.com/shlok-2003/shastra-temp)
+
 [![Medinova](https://gh-card.dev/repos/Joyvin/Medinova.svg)](https://github.com/Joyvin/Medinova)
 
 [![hacktober-fest](https://gh-card.dev/repos/tcet-opensource/hacktober-fest.svg)](https://github.com/tcet-opensource/hacktober-fest)
